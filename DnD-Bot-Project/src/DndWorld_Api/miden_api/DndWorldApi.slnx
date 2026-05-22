@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../discordbot/DndBot.csproj" />
+  <Project Path="DndWorldApi.csproj" />
+</Solution>

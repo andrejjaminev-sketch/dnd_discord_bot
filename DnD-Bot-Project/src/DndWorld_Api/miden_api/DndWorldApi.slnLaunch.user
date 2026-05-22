@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "DndWorldApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\discordbot\\DndBot.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
